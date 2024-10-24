@@ -1,12 +1,11 @@
 {
-    "name": "𝐃𝐄𝐄𝐏 𝐌𝐔𝐒𝐈𝐂",
+    "name": "sᴏɴᴀ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/c53d9a7df9dbaa5f4db05.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "CW-MUSIC",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
