@@ -13,14 +13,6 @@
 <p align="center"><a href="https://ll_ALPHA_BABY_lll"><img src="https://telegra.ph/file/207afbc175113d14d1231.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=ALPHA_MUSIC&theme=flag-india)
-
-[![GIF](https://github.com/TEAMPURVI/ALPHA_MUSIC/blob/main/TEAMPURVI.gif)](https://github.com/TEAMPURVI)
-   [![ALPHA](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
-
-
-
 </p>
 ʀᴀᴜsʜᴀɴ
 <p align="center">
